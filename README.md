@@ -1,4 +1,8 @@
-# CRoSS (Continual Robotic Simulation Suite
+# CRoSS (Continual Robotic Simulation Suite)
+
+CRoSS is a scalable benchmark suite for Continual Reinforcement Learning (CRL), built on top of the Gazebo simulator and designed to study forgetting, transfer, and scalability in realistic robotic environments.
+The benchmark provides both physically simulated and kinematic variants of robotic tasks, combining realism, reproducibility, and computational efficiency.
+It enables researchers to explore continual learning algorithms on complex, embodied agents while maintaining full control over task diversity and training conditions.
 
 ## Project Setup
 
