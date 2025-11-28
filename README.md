@@ -69,7 +69,7 @@ CRoSS uses our modular RL framework for Incremental Continual Reinforcement Lear
 This seperation ensures identical pipelines across all benchmarks, full reproducibility of experiment configurations and consistent logging and evaluation.
 
 ### Containerized Execution
-The [ICRL]() Repository includes an Apptainer definition file that:
+The [ICRL](https://github.com/anon-scientist/cross_icrl) Repository includes an Apptainer definition file that:
 * installs Gazebo and Python dependencies
 * ensures consistent runtime environments across machines
 * enables reproducible execution on HPC clusters, servers, and personal workstations
