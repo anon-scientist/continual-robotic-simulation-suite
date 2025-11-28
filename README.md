@@ -41,7 +41,7 @@ Each repository contains its own `README.md` with:
 ## Getting Started
 For a more specific guide follow the instructions on the individual benchmarks `README.md`.
 1. **Clone the benchmark repository** and any other, that the benchmark is dependent on.
-2. **Clone the [ICRL]() repository** if not already done, which contains the RL-Framework that all the benchmarks require.
+2. **Clone the [ICRL](https://github.com/anon-scientist/cross_icrl) and [cl_experiments](https://github.com/anon-scientist/cl_experiment) repository** if not already done, which contains the RL-Framework that all the benchmarks require.
 3. **Setup the Apptainer environment** with the `icrl.def` from the icrl repository.
 4. When no other steps or requirements are in the benchmarks `README.md`: **Run the benchmark through the `main.bash`**.
 
